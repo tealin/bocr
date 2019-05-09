@@ -6,4 +6,4 @@ https://raw.githubusercontent.com/tealin/bocr/master/bocr.zip
 
 ## ocr支持的识别类型：
 png、jpg、jpeg、bmp，文件大小不超过2m；  
-识别时需在联网时使用
+识别时必须确保网络畅通
